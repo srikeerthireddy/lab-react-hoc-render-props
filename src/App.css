@@ -1,3 +1,15 @@
+body{
+  background-color: aquamarine;
+  color:blue;
+  display: flex;
+  justify-content: center;
+}
+h3{
+  font-size: 50px;
+}
+
 .buttons{
   display: flex;
+  gap: 10px;
+  padding: 10px;
 }
